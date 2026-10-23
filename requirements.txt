@@ -1,0 +1,6 @@
+pytest
+pytest-playwright
+allure-pytest
+requests
+jsonschema
+anthropic
